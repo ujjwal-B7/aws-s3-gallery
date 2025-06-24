@@ -1,6 +1,6 @@
-# Secure File Uploads with AWS S3, CloudFront & Postgres
+# File Uploads with AWS S3, CloudFront & Postgres
 
-A production-ready full-stack application that allows users to **securely upload files to AWS S3** via the **Express backend**, stores metadata in **PostgreSQL (RDS)**, and serves files globally via **CloudFront CDN** using **signed URLs** that expire in 2 days. The architecture ensures high performance, privacy, and scalability.
+A backend application that allows users to **securely upload files to AWS S3** via the **Express backend**, stores metadata in **PostgreSQL (RDS)**, and serves files globally via **CloudFront CDN** using **signed URLs** that expire in 2 days. The architecture ensures high performance, privacy, and scalability.
 
 ![Express](https://img.shields.io/badge/Express.js-Backend-black)
 ![AWS S3](https://img.shields.io/badge/AWS-S3-orange)
